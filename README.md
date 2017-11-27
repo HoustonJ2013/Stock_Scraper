@@ -1,6 +1,6 @@
 ## Stock_Scraper
 ## Author : jingbo.liu2013@gmail.com
-## Date : 2017 11 26
+## Date : 2017/11/26
 1. Scrape historical stock price (Package  pandas_datareader)
     
 2. Scrape yahoo finance for summary and statistics table (Package requests and bs4)
