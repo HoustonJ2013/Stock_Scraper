@@ -3,6 +3,7 @@
 ## Date : 2017 11 26
 1. Scrape historical stock price
     Package  pandas_datareader
+    
 2. Scrape yahoo finance for summary and statistics table
     Package requests and bs4
     web example : https://finance.yahoo.com/quote/TOT?p=TOT
@@ -11,6 +12,8 @@ The worflow for scraping
   2. request url
   3. Parse with Beautifulsoup
   4. Search the parsed content, and return the required table
+  
+  
 3. Scrape historical financial statement (quarterly/annual) from amigobulls.com
    package : selenium
 
