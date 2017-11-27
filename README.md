@@ -8,7 +8,7 @@
 web example : https://finance.yahoo.com/quote/TOT?p=TOT
   
 3. Scrape historical financial statement (quarterly/annual) from amigobulls.com
-   (package selenium)
+   (package selenium, use headless chromedriver to simulate web navigating, including login and download a link on a website )
 
 ``` python
 ## Test 
