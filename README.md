@@ -1,5 +1,4 @@
 ## Stock_Scraper
-## Author : jingbo.liu2013@gmail.com
 ## Date : 2017/11/26
 1. Scrape historical stock price (Package  pandas_datareader)
     
